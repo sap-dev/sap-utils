@@ -1,5 +1,5 @@
 { "images": [
-  { "name": "Brett", "url":"McLaughlin" },
-  { "name": "Jason", "url":"Hunter" }
+  { "name": "fedora-22-x86_64.tar.gz", "url":"http://download.openvz.org/template/precreated/fedora-22-x86_64.tar.gz" },
+  { "name": "debian-4.0-amd64-minimal.tar.gz", "url":"http://download.openvz.org/template/precreated/contrib/debian-4.0-amd64-minimal.tar.gz" }
  ]
  }
