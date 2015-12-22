@@ -2,6 +2,7 @@
   { "name": "fedora-22-x86_64.tar.gz", "url":"http://download.openvz.org/template/precreated/fedora-22-x86_64.tar.gz" },
   { "name": "debian-4.0-amd64-minimal.tar.gz", "url":"http://download.openvz.org/template/precreated/contrib/debian-4.0-amd64-minimal.tar.gz" },
   { "name": "debian-7.0-x86_64.tar.gz", "url":"https://download.openvz.org/template/precreated/contrib/debian-7.0-x86_64.tar.gz" },
+  { "name": "debian-8.0-x86_64.tar.gz", "url":"http://[2001:470:1f13:49b::13]/DEV/debian-8.0-x86_64.tar.gz" },
   { "name": "ubuntu-10.04-minimal_10.04_amd64.tar.gz", "url":"https://download.openvz.org/template/precreated/contrib/ubuntu-10.04-minimal_10.04_amd64.tar.gz" }
  ]
  }
