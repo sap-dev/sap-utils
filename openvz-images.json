@@ -1,8 +1,11 @@
 { "images": [
-  { "name": "fedora-22-x86_64.tar.gz", "url":"http://download.openvz.org/template/precreated/fedora-22-x86_64.tar.gz" },
-  { "name": "debian-4.0-amd64-minimal.tar.gz", "url":"http://download.openvz.org/template/precreated/contrib/debian-4.0-amd64-minimal.tar.gz" },
-  { "name": "debian-7.0-x86_64.tar.gz", "url":"https://download.openvz.org/template/precreated/contrib/debian-7.0-x86_64.tar.gz" },
-  { "name": "debian-8.0-x86_64.tar.gz", "url":"http://[2001:470:1f13:49b::13]/DEV/debian-8.0-x86_64.tar.gz" },
-  { "name": "ubuntu-10.04-minimal_10.04_amd64.tar.gz", "url":"https://download.openvz.org/template/precreated/contrib/ubuntu-10.04-minimal_10.04_amd64.tar.gz" }
+  { "name": "ubuntu-16.04-x86_64.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/ubuntu-16.04-x86_64.tar.gz" }
+  { "name": "ubuntu-14.04-x86_64.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/ubuntu-14.04-x86_64.tar.gz" }
+  { "name": "debian-8.0-x86_64.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/debian-8.0-x86_64.tar.gz" }
+  { "name": "debian-7.0-x86_64.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/debian-7.0-x86_64.tar.gz" }
+  { "name": "suse-13.2-x86_64.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/suse-13.2-x86_64.tar.gz" }
+  { "name": "centos-7-x86_64.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/centos-7-x86_64.tar.gz" }
+  { "name": "centos-6-x86_64.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/centos-6-x86_64.tar.gz" }
+  { "name": "gentoo-amd64-20071018.tar.gz", "url":"http://openvz.just-hosting.ru/template/precreated/contrib/gentoo-amd64-20071018.tar.gz" }
  ]
  }
